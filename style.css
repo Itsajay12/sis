@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url(images/image-header.jpg);
+    object-fit: cover;
+    height: auto;
+    width: 100%;
+    color: white;
+}
