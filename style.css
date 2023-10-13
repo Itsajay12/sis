@@ -2,7 +2,12 @@ body{
     margin: 0;
     padding: 0;
 }
-.header{
-    background-image: url(images/image-header.jpg);
-    object-fit: contain;
+
+   
+.collapse{
+    margin-left: 84em;
+    
+}
+button{
+    border-radius: 35px;
 }
