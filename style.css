@@ -17,6 +17,9 @@ button{
 }
 .cont{
     background-color: white;
+    border-radius: 35px;
+    font-weight: bold;
+    width: 8em;
 }
 .cont:hover{
     background-color: rgb(27, 109, 233);
