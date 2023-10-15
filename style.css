@@ -14,5 +14,10 @@ button{
 .team{
     border-radius: 50%;
 }
-
+.cont{
+    background-color: white;
+}
+.cont:hover{
+    background-color: rgb(27, 109, 233);
+}
     
