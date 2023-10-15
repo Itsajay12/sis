@@ -1,3 +1,4 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
 body{
     margin: 0;
     padding: 0;
@@ -21,3 +22,17 @@ button{
     background-color: rgb(27, 109, 233);
 }
     
+img {
+    object-fit:contain;
+  }
+  footer{
+    background-color: #90D4C5;
+  }
+  .a{
+    text-decoration: none;
+    color: #4f5755;
+    font-weight: bold;
+  }
+  .a:hover{
+    color: white;
+  }
