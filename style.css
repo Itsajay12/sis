@@ -39,3 +39,14 @@ img {
   .a:hover{
     color: white;
   }
+  .learn-bt{
+    background: linear-gradient(90deg, rgba(241,15,36,1) 25%, rgba(233,233,242,1) 50%)!important;
+   animation-name: change;
+  }
+  
+    @keyframes change {
+      from {    background: linear-gradient(90deg, rgba(241,15,36,1) 25%, rgba(233,233,242,1) 50%);
+      }
+      to {background-color:rgba(255,0,0)}
+    }
+  
